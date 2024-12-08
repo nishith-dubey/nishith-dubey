@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![A boy in train](Assets/train.gif)
+![A boy in train](https://imgur.com/FToOVa4)
 
 I'm [Your Name], a passionate developer who loves to build cool things. 🚀
 
