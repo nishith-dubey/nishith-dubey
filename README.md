@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Coding GIF](assets/8c3f23158910291.6394545cce363.gif)
+![Coding GIF](Assets/8c3f23158910291.6394545cce363.gif)
 
 I'm [Your Name], a passionate developer who loves to build cool things. 🚀
 
