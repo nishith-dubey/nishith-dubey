@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![A boy in train](Assets/train_optimized.gif)
+<img src="assets/train_optimized.gif" alt="Train Animation" height="200">
 
 I'm Nishith, a passionate developer who loves to build cool things. 🚀
 
